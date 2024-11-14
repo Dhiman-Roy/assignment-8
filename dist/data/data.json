@@ -1,0 +1,274 @@
+[
+  {
+    "product_id": "GAD001",
+    "product_title": "TechCo Smartphone X10",
+    "product_image": "https://i.ibb.co.com/KcvCWzP/techno-x10.webp",
+    "category": "Smartphone",
+    "price": 699.99,
+    "description": "A high-performance smartphone with a stunning display and powerful camera.",
+    "Specification": [
+      "6.5-inch AMOLED display",
+      "128GB storage",
+      "5G connectivity",
+      "Triple-lens camera"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "GAD002",
+    "product_title": "SoundMax Wireless Earbuds Pro",
+    "product_image": "https://i.ibb.co.com/y6QBkDy/soundmax-Earbuds.png",
+    "category": "Audio",
+    "price": 129.99,
+    "description": "Premium wireless earbuds with active noise cancellation and crystal-clear sound.",
+    "Specification": [
+      "Active noise cancellation",
+      "20 hours battery life",
+      "Bluetooth 5.2",
+      "Water-resistant"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "GAD003",
+    "product_title": "ViewTech 4K Smart TV",
+    "product_image": "https://i.ibb.co.com/vYC8SW3/viewtech-smart-tv.png",
+    "category": "Television",
+    "price": 1099.99,
+    "description": "An ultra HD 4K smart TV with vibrant colors and voice control.",
+    "Specification": [
+      "55-inch 4K display",
+      "Smart TV OS",
+      "Voice assistant integration",
+      "HDR support"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "GAD004",
+    "product_title": "GameMaster Gaming Laptop GX15",
+    "product_image": "https://i.ibb.co.com/smNH8Tx/gad004.webp",
+    "category": "Laptop",
+    "price": 1499.99,
+    "description": "A powerful gaming laptop with high refresh rate display and RGB keyboard.",
+    "Specification": [
+      "15.6-inch FHD 144Hz display",
+      "Intel i7 processor",
+      "16GB RAM, 512GB SSD",
+      "NVIDIA GTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD005",
+    "product_title": "HomeMate Smart Home Speaker",
+    "product_image": "https://i.ibb.co.com/64rBSLm/gad005.jpg",
+    "category": "Smart Home",
+    "price": 99.99,
+    "description": "Voice-controlled smart speaker for hands-free assistance at home.",
+    "Specification": [
+      "WiFi and Bluetooth connectivity",
+      "Voice assistant built-in",
+      "Multi-room audio",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "GAD099",
+    "product_title": "iPhone 15",
+    "product_image": "https://i.ibb.co.com/R4g9zZQ/iphone-15.jpg",
+    "category": "Smartphone",
+    "price": 999.99,
+    "description": "The latest iPhone with A16 Bionic chip and enhanced camera.",
+    "Specification": [
+      "6.1-inch OLED display",
+      "256GB storage",
+      "5G connectivity",
+      "Dual-lens camera"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD006",
+    "product_title": "FitLife Fitness Tracker FitPro",
+    "product_image": "https://i.ibb.co.com/GpjzHb9/gad006.png",
+    "category": "Wearable",
+    "price": 59.99,
+    "description": "A fitness tracker with heart rate monitor and activity tracking.",
+    "Specification": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Water-resistant",
+      "7-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "PIX007",
+    "product_title": "Google Pixel 7",
+    "product_image": "https://i.ibb.co.com/G7y6fK1/pixel7.png",
+    "category": "Smartphone",
+    "price": 599.99,
+    "description": "Google's flagship smartphone with advanced AI features.",
+    "Specification": [
+      "6.3-inch OLED display",
+      "128GB storage",
+      "5G connectivity",
+      "Dual-lens camera"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "IPH016",
+    "product_title": "iPhone 16",
+    "product_image": "https://i.ibb.co.com/FXqqrX3/iphone16.png",
+    "category": "Smartphone",
+    "price": 1099.99,
+    "description": "Next-generation iPhone with cutting-edge performance.",
+    "Specification": [
+      "6.7-inch OLED display",
+      "512GB storage",
+      "5G connectivity",
+      "Triple-lens camera"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": "GAD007",
+    "product_title": "TimeWear Smartwatch Gen 5",
+    "product_image": "https://i.ibb.co.com/YP0xbXf/gad007.png",
+    "category": "Wearable",
+    "price": 249.99,
+    "description": "A smartwatch with health tracking and phone notifications.",
+    "Specification": [
+      "AMOLED display",
+      "Built-in GPS",
+      "Heart rate monitor",
+      "Smart notifications"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "GAD008",
+    "product_title": "SoundBlaster Portable Bluetooth Speaker",
+    "product_image": "https://i.ibb.co.com/jLJQFGJ/gad008.png",
+    "category": "Audio",
+    "price": 59.99,
+    "description": "Compact and waterproof Bluetooth speaker for outdoor use.",
+    "Specification": [
+      "Waterproof design",
+      "10-hour battery life",
+      "Bluetooth 5.0",
+      "360° sound"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "SONYXM3",
+    "product_title": "Sony Xperia Mark 3",
+    "product_image": "https://i.ibb.co.com/LddtT0g/sony-xperia.webp",
+    "category": "Smartphone",
+    "price": 849.99,
+    "description": "Sony's premium smartphone with advanced audio and video features.",
+    "Specification": [
+      "6.5-inch OLED display",
+      "256GB storage",
+      "5G connectivity",
+      "Triple-lens camera"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "MOTOE50",
+    "product_title": "Motorola Edge 50",
+    "product_image": "https://i.ibb.co.com/Jk2VQ5N/motorola-edge-50.webp",
+    "category": "Smartphone",
+    "price": 699.99,
+    "description": "A powerful device with edge-to-edge display and long battery life.",
+    "Specification": [
+      "6.8-inch OLED display",
+      "128GB storage",
+      "5G connectivity",
+      "Triple-lens camera"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "GAD009",
+    "product_title": "TabCo Tablet Pro 11",
+    "product_image": "https://i.ibb.co.com/HXZTjkY/gad009.png",
+    "category": "Tablet",
+    "price": 499.99,
+    "description": "A powerful tablet with a large display, perfect for work and play.",
+    "Specification": [
+      "11-inch Retina display",
+      "128GB storage",
+      "10-hour battery life",
+      "Compatible with stylus"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD010",
+    "product_title": "SkyEye Drone 4K Vision",
+    "product_image": "https://i.ibb.co.com/tYvzvfX/gad010.jpg",
+    "category": "Drone",
+    "price": 799.99,
+    "description": "A drone with 4K camera and advanced stabilization for aerial photography.",
+    "Specification": [
+      "4K camera",
+      "GPS-assisted flight",
+      "30-minute flight time",
+      "Follow mode"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": "GAD011",
+    "product_title": "EcoSmart Smart Thermostat",
+    "product_image": "https://i.ibb.co.com/tpyLv7H/gad011.png",
+    "category": "Smart Home",
+    "price": 129.99,
+    "description": "An energy-saving smart thermostat with mobile control.",
+    "Specification": [
+      "WiFi enabled",
+      "Energy saving mode",
+      "Mobile app control",
+      "Voice assistant compatible"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "GAD012",
+    "product_title": "ClearSound Noise-Cancelling Headphones",
+    "product_image": "https://i.ibb.co.com/6bSRH0F/gad012.png",
+    "category": "Audio",
+    "price": 199.99,
+    "description": "Over-ear headphones with noise cancellation and immersive sound.",
+    "Specification": [
+      "Noise cancellation",
+      "30-hour battery life",
+      "Bluetooth 5.0",
+      "Comfortable design"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]
